@@ -2,7 +2,7 @@
 /**
  * main -Entry point
  *
- * Description: print a quete using write function write (int fd,const void "buf",size_t count)
+ * Description: print a qoute using write function write
  *
  * Return:1 (not success)
 */
